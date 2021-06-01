@@ -13,8 +13,8 @@ Requiere Node.JS 10
 
 - `npm install` para instalar dependencias
 - `npm start` para el entorno de desarrollo
-  _`npm run android` para iniciar app en android
-  _`npm run ios` para iniciar app en ios
+- `npm run android` para iniciar app en android
+- `npm run ios` para iniciar app en ios
 
 ## Lincencia
 
