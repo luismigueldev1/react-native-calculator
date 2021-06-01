@@ -9,7 +9,7 @@ twitter: @Fernando_Her85
 
 ## ¿Cómo funciona?
 
-Requiere Node.JS 10
+Requiere Node.JS 14
 
 - `npm install` para instalar dependencias
 - `npm start` para el entorno de desarrollo
